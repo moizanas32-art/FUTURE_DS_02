@@ -90,6 +90,14 @@ Include predictive analytics for campaign performance forecasting.
 
 Integrate cost-per-click (CPC) and return-on-ad-spend (ROAS) calculations.
 
+ ##### DASHBOARD overview 👇👇
+
+<img width="1276" height="717" alt="Screenshot 2025-11-02 161253" src="https://github.com/user-attachments/assets/5f9db3e0-6b7d-4e07-bb9f-3652c6924189" />
+
+
+<img width="1122" height="622" alt="Screenshot 2025-11-03 012514" src="https://github.com/user-attachments/assets/4e36ed5c-9e08-410a-8609-44d0ddb36994" />
+
+
 👩‍💻 Author
 
 Your Name
